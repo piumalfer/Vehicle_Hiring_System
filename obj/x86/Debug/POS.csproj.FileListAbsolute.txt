@@ -1,0 +1,52 @@
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\bin\Debug\Sales and Inventory System (Gadgets Shop).exe.config
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales and Inventory System (Gadgets Shop).pdb
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\bin\Debug\POS_DB.mdf
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\bin\Debug\POS_DB_log.ldf
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\bin\Debug\Sales and Inventory System (Gadgets Shop).exe
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\bin\Debug\Sales and Inventory System (Gadgets Shop).pdb
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmAbout.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomerMainMenu.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomerProfileEntry.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomerOrders.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmPlaceOrders.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmUpdateProfile.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmOrder.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCategory.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCategoryRecord.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmChangePassword.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomers.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmUpdateCustomerDetails.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSalesRecord2.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmStockRecord.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmStockReport.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSuppliersRecord.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSuppliersRecord1.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmProductsRecord.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmProductsRecord1.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSubCategory.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSubCategoryRecord.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSuppliers.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomersRecord.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomersRecord1.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomersRecord2.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomersReport.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmInvoiceReport.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmLogin.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmLoginDetails.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmMainMenu.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmProduct.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmProductsRecord2.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmRecoveryPassword.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmRegisteredUsersDetails.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSales.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSalesRecord1.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSalesReport.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSplash.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmStock.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmStockRecord1.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmSuppliersReport.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmRegistration.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.frmCustomerRegistration.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales_and_Inventory_System__Gadgets_Shop_.Properties.Resources.resources
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\POS.csproj.GenerateResource.Cache
+C:\Users\Aroosoft\Desktop\jahan pos\Point Of Sale\obj\x86\Debug\Sales and Inventory System (Gadgets Shop).exe
